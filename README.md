@@ -60,7 +60,3 @@ This project is licensed under the **MIT License**.
 ## 🌟 Contributing
 Pull requests and contributions are welcome! Feel free to open an issue if you find any bugs or have suggestions.
 
-## 📬 Contact
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: your-email@example.com
-
